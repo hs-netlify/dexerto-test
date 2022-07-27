@@ -2,12 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  async redirects() {
+  async rewrites() {
     return [
       {
         source: "/:category(.*sitemap.*\\.xml)",
-        destination: "/.netlify/builders/sitemap/:category",
-        permanent: true,
+        destination:
+          "https://rs-test-odb-ttl.netlify.app/.netlify/builders/sitemap/:category",
       },
     ];
   },
