@@ -69,10 +69,10 @@
     "ufo" "^0.8.0"
     "unstorage" "^0.2.8"
 
-"@netlify/plugin-nextjs@^4.12.0":
-  "integrity" "sha512-bpv7nyx8FBcQ3Abmr0LUCDDbwkklilQmIi9GKmnEHioIf+xfr6X4MuEh6sjF5kvLQvyW7egiGK7GxI7CBavvoQ=="
-  "resolved" "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.12.0.tgz"
-  "version" "4.12.0"
+"@netlify/plugin-nextjs@^4.13.1":
+  "integrity" "sha512-OMxd+6FCq4uNgJCkbBqzvXYlnP4OkaL7zFJcJYCkj3Vg/t+Gs+hO1erem6bsdeVtCxFQ4zwfRmvyir1xkhHnmA=="
+  "resolved" "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.13.1.tgz"
+  "version" "4.13.1"
   dependencies:
     "@netlify/functions" "^1.0.0"
     "@netlify/ipx" "^1.1.3"
