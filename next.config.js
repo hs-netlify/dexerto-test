@@ -7,7 +7,7 @@ const nextConfig = {
       {
         source: "/:category(.*sitemap.*\\.xml)",
         destination:
-          "https://rs-test-odb-ttl.netlify.app/.netlify/builders/sitemap/:category",
+          "https://moonlit-babka-1e1743.netlify.app/.netlify/builders/sitemap/:category",
       },
     ];
   },
